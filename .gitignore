@@ -1,7 +1,28 @@
-/bin/
-/target/
+# Compiled class files
 *.class
+
+# Package files
 *.jar
+*.war
+*.ear
+
+# IDE files
+.idea/
+*.iml
 .settings/
 .classpath
 .project
+.vscode/
+
+# Build directories
+/bin/
+/target/
+/build/
+/out/
+
+# Logs
+*.Logs
+
+# OS specific files
+.DS_Store
+Thumbs.db
