@@ -5,7 +5,7 @@
 .settings/
 .classpath
 .project
-.vscode/settings.json
+
 
 # Build directories
 /bin/
