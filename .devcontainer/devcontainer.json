@@ -1,9 +1,12 @@
 {
-    "name": "Java Project",
+    "name": "JobExchangeConsole",
     "image": "mcr.microsoft.com/vscode/devcontainers/java:17",
     "features":{
         "ghcr.io/devcontainers/features/java:1": {
             "version": "17"
+        },
+        "ghcr.io/devcontainers/features/git:1": {
+            "version": "latest"
         }
     }
 }
